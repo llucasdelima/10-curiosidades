@@ -2,7 +2,7 @@
 theme: uncover
 style:
 headingDivider:
-size: 4:3
+size: 19:6
 math: mathjax
 title: 10 Curiosidades sobre mim
 author: Lucas de Lima
@@ -16,20 +16,50 @@ marp: true
 <style>
   strong { color: orange !important; }
   video::-webkit-media-controls { will-change: transform; }
-  ul>li:nth-child(odd) { color: silver !important; }
 </style>
 
 # <!-- fit --> 10 CURIOSIDADES
 
 # <!-- fit --> SOBRE MIM
 
+Lucas de Lima | 37 anos (1986)
+
 ---
 
-- 37 anos (1986)
-- 2 irmãos
-- 2 sobrinhos
-- 4 cachorros
-- e...
+# 🙂🙃🙂
+
+# <!-- fit --> 2 IRMÃOS
+
+mais novos
+
+![bg left](img/familia.jpg)
+
+---
+
+0 Bonecos
+
+# 2 sobrinhos
+
+![bg right](img/sobrinhos.jpg)
+
+# 👨‍👦‍👦
+
+---
+
+<!-- _class: invert -->
+
+# <!-- fit --> 4 cachorros
+
+🐶🐶🐶🐶
+
+---
+
+![bg](img/dogs.jpg)
+![bg](img/jiraya.jpg)
+
+---
+
+# <!--fit--> e...
 
 ---
 
@@ -38,14 +68,6 @@ marp: true
 ## Meu nome quase foi
 
 # <!-- fit -->_Katiuska_
-
----
-
-![bg](img/dogs.jpg)
-
----
-
-![bg](img/jiraya.jpg)
 
 ---
 
