@@ -22,7 +22,7 @@ marp: true
 
 # <!-- fit --> SOBRE MIM
 
-Lucas de Lima | 37 anos (1986)
+Lucas de Lima | <del>37</del> 38 anos (1986)
 
 ---
 
@@ -32,7 +32,7 @@ Lucas de Lima | 37 anos (1986)
 
 mais novos
 
-![bg left](img/familia.jpg)
+![bg left](img/00-familia.webp)
 
 ---
 
@@ -40,7 +40,7 @@ mais novos
 
 # 2 sobrinhos
 
-![bg right](img/sobrinhos.jpg)
+![bg right](img/00-sobrinhos.webp)
 
 # 👨‍👦‍👦
 
@@ -54,8 +54,8 @@ mais novos
 
 ---
 
-![bg](img/dogs.jpg)
-![bg](img/jiraya.jpg)
+![bg](img/00-dogs.webp)
+![bg](img/00-jiraya.webp)
 
 ---
 
@@ -75,7 +75,7 @@ mais novos
 
 # <!-- fit --> :fire: **BURNOUT**
 
-![bg cover grayscale:1 brightness:.2](./img/burnout.jpg)
+![bg cover grayscale:1 brightness:.2](./img/01-burnout.webp)
 
 ---
 
@@ -89,7 +89,7 @@ mais novos
 
 <!-- _class: invert -->
 
-![Dança](img/danca.webp)
+![Dança](img/02-danca.webp)
 
 ---
 
@@ -130,6 +130,12 @@ mais novos
 
 ---
 
+<!-- _class: invert -->
+
+![player de música](img/03-coder.webp)
+
+---
+
 ## - 04 -
 
 # Comercial papelaria MEC
@@ -138,7 +144,7 @@ mais novos
 
 ---
 
-<video src="img/mec.mp4" controls width="100%"></video>
+<video src="img/04-mec.mp4" controls width="100%"></video>
 
 ---
 
@@ -148,68 +154,104 @@ mais novos
 
 # Já participei do canal de jogos do meu irmão.
 
+<small>yt/bitbugado</small>
+
 # :video_game:
 
-![bg cover grayscale:1 brightness:.2](img/bitbugado-03.png)
+![bg cover grayscale:1 brightness:.2](img/05-bitbugado-03.webp)
 
 ---
 
 <!-- _class: invert -->
 
-![Bitbugado w:550](img/bitbugado-01.png)
-![Bitbugado w:550](img/bitbugado-02.png)
+![Bitbugado w:550](img/05-bitbugado-01.webp)
+![Bitbugado w:550](img/05-bitbugado-02.webp)
 
 ---
 
 <!-- _class: invert -->
 
-![bitbugado w:720](img/bitbugado-04.png)
+![bitbugado w:720](img/05-bitbugado-04.webp)
 
 ---
 
 <!-- _class: invert -->
 
-<video src="img/piadoca.mp4" controls width="100%"></video>
+<video src="img/05-piadoca.mp4" controls width="100%"></video>
 
 ---
+
+<!-- _class: invert -->
 
 ## - 06 -
 
 # Já fui otaku
 
-# :sushi:
+# :sushi: :jp:
+
+![bg grayscale:1 brightness:.2 blur:2px](img/06-otaku-1.webp)
+![bg grayscale:1 brightness:.2 blur:2px](img/06-otaku-2.webp)
+![bg grayscale:1 brightness:.2 blur:2px](img/06-otaku-3.webp)
 
 ---
 
-## - 07 -
-
-# Só queria desenhar
-
-mas deu tudo errado
-
-# :art:
+![bg](img/06-otaku-4-A.webp)
+![bg](img/06-otaku-4-B.webp)
 
 ---
 
-![bg](img/agencia.jpg)
+![bg](img/06-otaku-5-B.webp)
+![bg](img/06-otaku-5-A.webp)
 
 ---
 
 <!-- _class: invert -->
 
-![h:700](img/anuncio.jpg)
+## - 07 -
+
+# Só queria desenhar...
+
+# :art:
+
+![bg grayscale:1 brightness:.2 blur:2px w:150%](img/07-desenhando.webp)
+
+---
+
+![bg](img/07-design.webp)
+
+---
+
+![bg w:150%](img/07-desenhando.webp)
+
+---
+
+...mas deu tudo errado.
+
+# 🤷‍♂️
+
+---
+
+![bg w:80%](img/07-agencia.webp)
+
+---
+
+<!-- _class: invert -->
+
+![h:700](img/07-anuncio.webp)
 
 ---
 
 ## - 08 -
 
-# Lorem Ipsum
+# Fui resgatado pela<br> guarda ambiental
 
 ---
 
 ## - 09 -
 
-# Lorem Ipsum
+### Vou do luxo ✨ ao lixo 💩
+
+# MUITO RÁPIDO
 
 ---
 
@@ -225,7 +267,7 @@ mas deu tudo errado
 
 ---
 
-![bg](img/limaq.jpg)
+![bg](img/10-limaq.webp)
 
 ---
 
@@ -233,4 +275,4 @@ mas deu tudo errado
 
 Valeu! :v:
 
-![bg right](img/sensual.jpg)
+![bg right](img/11-sensual.webp)
