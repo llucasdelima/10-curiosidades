@@ -26,6 +26,12 @@ Lucas de Lima | <del>37</del> 38 anos (1986)
 
 ---
 
+![bg](img/00-evo-A.webp)
+![bg](img/00-evo-B.webp)
+![bg](img/00-evo-C.webp)
+
+---
+
 # 🙂🙃🙂
 
 # <!-- fit --> 2 IRMÃOS
@@ -46,6 +52,10 @@ mais novos
 
 ---
 
+![bg](img/00-sobrinhos-B.webp)
+
+---
+
 <!-- _class: invert -->
 
 # <!-- fit --> 4 cachorros
@@ -55,6 +65,10 @@ mais novos
 ---
 
 ![bg](img/00-dogs.webp)
+![bg](img/00-dogs-B.webp)
+
+---
+
 ![bg](img/00-jiraya.webp)
 
 ---
@@ -76,6 +90,16 @@ mais novos
 # <!-- fit --> :fire: **BURNOUT**
 
 ![bg cover grayscale:1 brightness:.2](./img/01-burnout.webp)
+
+---
+
+![bg cover](./img/01-burnout.webp)
+
+---
+
+<!-- _class: invert -->
+
+![bg w:80%](./img/01-burnout-B.webp)
 
 ---
 
@@ -144,7 +168,7 @@ mais novos
 
 ---
 
-<video src="img/04-mec.mp4" controls width="100%"></video>
+<video src="img/04-mec.mp4" controls width="80%"></video>
 
 ---
 
@@ -231,6 +255,8 @@ mais novos
 
 ---
 
+<!-- _class: invert -->
+
 ![bg w:80%](img/07-agencia.webp)
 
 ---
@@ -243,7 +269,37 @@ mais novos
 
 ## - 08 -
 
-# Fui resgatado pela<br> guarda ambiental
+# Fui resgatado pela<br> patrulha ambiental
+
+## 🐖
+
+---
+
+![bg](img/08-ambiental-A.webp)
+![bg](img/08-ambiental-B.webp)
+
+---
+
+![bg](img/08-ambiental-C.webp)
+![bg](img/08-ambiental-D.webp)
+
+---
+
+<!-- _class: invert -->
+
+<video src="img/08-ambiental-E.mp4" controls height="100%"></video>
+
+---
+
+<!-- _class: invert -->
+
+<video src="img/08-ambiental-F.mp4" controls height="100%"></video>
+
+---
+
+<!-- _class: invert -->
+
+<video src="img/08-ambiental-G.mp4" controls height="100%"></video>
 
 ---
 
