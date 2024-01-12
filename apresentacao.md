@@ -26,9 +26,9 @@ Lucas de Lima | <del>37</del> 38 anos (1986)
 
 ---
 
-![bg](img/00-evo-A.webp)
-![bg](img/00-evo-B.webp)
-![bg](img/00-evo-C.webp)
+![bg](img/evo-A.webp)
+![bg](img/evo-B.webp)
+![bg](img/evo-C.webp)
 
 ---
 
@@ -38,7 +38,7 @@ Lucas de Lima | <del>37</del> 38 anos (1986)
 
 mais novos
 
-![bg left](img/00-familia.webp)
+![bg left](img/familia-A.webp)
 
 ---
 
@@ -46,13 +46,15 @@ mais novos
 
 # 2 sobrinhos
 
-![bg right](img/00-sobrinhos.webp)
+![bg right](img/familia-B.webp)
 
 # 👨‍👦‍👦
 
 ---
 
-![bg](img/00-sobrinhos-B.webp)
+<!-- _class: invert -->
+
+![bg width:50%](img/familia-C.webp)
 
 ---
 
@@ -64,16 +66,16 @@ mais novos
 
 ---
 
-![bg](img/00-dogs.webp)
-![bg](img/00-dogs-B.webp)
+![bg](img/dogs-A.webp)
+![bg](img/dogs-B.webp)
 
 ---
 
-![bg](img/00-jiraya.webp)
+![bg](img/dogs-C.webp)
 
 ---
 
-# <!--fit--> e...
+# e...
 
 ---
 
@@ -85,25 +87,37 @@ mais novos
 
 ---
 
-## **- 01-**
+## - 01 -
 
-# <!-- fit --> :fire: **BURNOUT**
+## Vou do luxo ✨ ao lixo 💩
 
-![bg cover grayscale:1 brightness:.2](./img/01-burnout.webp)
+<small>Slide Filler 🤫</small>
 
 ---
 
-![bg cover](./img/01-burnout.webp)
+![bg cover](img/lixo-luxo-A.webp)
+
+---
+
+## **- 02 -**
+
+# <!-- fit --> :fire: **BURNOUT**
+
+![bg cover grayscale:1 brightness:.2](./img/burnout-A.webp)
+
+---
+
+![bg cover](./img/burnout-A.webp)
 
 ---
 
 <!-- _class: invert -->
 
-![bg w:80%](./img/01-burnout-B.webp)
+![bg w:80%](./img/burnout-B.webp)
 
 ---
 
-## - 02 -
+## - 03 -
 
 # <!-- fit -->Aula de dança
 
@@ -113,13 +127,13 @@ mais novos
 
 <!-- _class: invert -->
 
-![Dança](img/02-danca.webp)
+![Dança](img/danca-A.webp)
 
 ---
 
 <!-- _class: invert -->
 
-## - 03 -
+## - 04 -
 
 # Eu já fui coder
 
@@ -135,11 +149,8 @@ mais novos
 
 ```markdown
 <!-- _class: invert -->
-<style>
-  ul>li:nth-child(odd) { color: silver !important; }
-</style>
 
-## - 03 -
+## - 04 -
 
 # Eu já fui coder
 
@@ -152,56 +163,25 @@ mais novos
 - ahk
 ```
 
+<small>🐙🐈 github.com/llucasdelima</small>
+
 ---
 
 <!-- _class: invert -->
 
-![player de música](img/03-coder.webp)
+![player de música](img/coder-A.webp)
 
 ---
 
-## - 04 -
+## - 05 -
 
-# Comercial papelaria MEC
+# Comercial Papelaria MEC
 
 # :tv:
 
 ---
 
-<video src="img/04-mec.mp4" controls width="80%"></video>
-
----
-
-<!-- _class: invert -->
-
-## - 05 -
-
-# Já participei do canal de jogos do meu irmão.
-
-<small>yt/bitbugado</small>
-
-# :video_game:
-
-![bg cover grayscale:1 brightness:.2](img/05-bitbugado-03.webp)
-
----
-
-<!-- _class: invert -->
-
-![Bitbugado w:550](img/05-bitbugado-01.webp)
-![Bitbugado w:550](img/05-bitbugado-02.webp)
-
----
-
-<!-- _class: invert -->
-
-![bitbugado w:720](img/05-bitbugado-04.webp)
-
----
-
-<!-- _class: invert -->
-
-<video src="img/05-piadoca.mp4" controls width="100%"></video>
+<video src="img/mec-A.mp4" controls width="80%"></video>
 
 ---
 
@@ -209,23 +189,25 @@ mais novos
 
 ## - 06 -
 
-# Já fui otaku
+# Já participei do canal de jogos do meu irmão.
 
-# :sushi: :jp:
+<small>yt/bitbugado</small>
 
-![bg grayscale:1 brightness:.2 blur:2px](img/06-otaku-1.webp)
-![bg grayscale:1 brightness:.2 blur:2px](img/06-otaku-2.webp)
-![bg grayscale:1 brightness:.2 blur:2px](img/06-otaku-3.webp)
+# :video_game:
 
----
-
-![bg](img/06-otaku-4-A.webp)
-![bg](img/06-otaku-4-B.webp)
+![bg cover grayscale:1 brightness:.2](img/bitbugado-A.webp)
 
 ---
 
-![bg](img/06-otaku-5-B.webp)
-![bg](img/06-otaku-5-A.webp)
+<!-- _class: invert -->
+
+![bg](img/bitbugado-B.webp)
+
+---
+
+<!-- _class: invert -->
+
+<video src="img/bitbugado-C.mp4" controls width="100%"></video>
 
 ---
 
@@ -233,19 +215,43 @@ mais novos
 
 ## - 07 -
 
+# Já fui otaku
+
+# :sushi: :jp:
+
+![bg grayscale:1 brightness:.2 blur:2px](img/otaku-A.webp)
+![bg grayscale:1 brightness:.2 blur:2px](img/otaku-B.webp)
+![bg grayscale:1 brightness:.2 blur:2px](img/otaku-C.webp)
+
+---
+
+![bg](img/otaku-D.webp)
+![bg](img/otaku-E.webp)
+
+---
+
+![bg](img/otaku-F.webp)
+![bg](img/otaku-G.webp)
+
+---
+
+<!-- _class: invert -->
+
+## - 08 -
+
 # Só queria desenhar...
 
 # :art:
 
-![bg grayscale:1 brightness:.2 blur:2px w:150%](img/07-desenhando.webp)
+![bg grayscale:1 brightness:.2 blur:2px w:150%](img/desenhar-A.webp)
 
 ---
 
-![bg](img/07-design.webp)
+![bg](img/desenhar-B.webp)
 
 ---
 
-![bg w:150%](img/07-desenhando.webp)
+![bg w:150%](img/desenhar-A.webp)
 
 ---
 
@@ -257,73 +263,56 @@ mais novos
 
 <!-- _class: invert -->
 
-![bg w:80%](img/07-agencia.webp)
+![bg w:80%](img/desenhar-C.webp)
 
 ---
 
 <!-- _class: invert -->
 
-![h:700](img/07-anuncio.webp)
-
----
-
-## - 08 -
-
-# Fui resgatado pela<br> patrulha ambiental
-
-## 🐖
-
----
-
-![bg](img/08-ambiental-A.webp)
-![bg](img/08-ambiental-B.webp)
-
----
-
-![bg](img/08-ambiental-C.webp)
-![bg](img/08-ambiental-D.webp)
+![h:700](img/desenhar-D.webp)
 
 ---
 
 <!-- _class: invert -->
-
-<video src="img/08-ambiental-E.mp4" controls height="100%"></video>
-
----
-
-<!-- _class: invert -->
-
-<video src="img/08-ambiental-F.mp4" controls height="100%"></video>
-
----
-
-<!-- _class: invert -->
-
-<video src="img/08-ambiental-G.mp4" controls height="100%"></video>
-
----
 
 ## - 09 -
 
-### Vou do luxo ✨ ao lixo 💩
+# Fui resgatado pela<br> **patrulha ambiental**
 
-# MUITO RÁPIDO
+## 🐖
+
+![bg grayscale:1 brightness:.4 blur:2px](img/ambiental-D.webp)
 
 ---
 
-## <!-- fit --> - 10 -
+![bg](img/ambiental-A.webp)
+![bg](img/ambiental-C.webp)
 
 ---
 
 <!-- _class: invert -->
 
-# A pomba, o ventilador e o pote de água
-
-# :skull:
+<table>
+<tr>
+<td><video src="img/ambiental-E.mp4" controls height="10%"></video></td>
+<td><video src="img/ambiental-F.mp4" controls height="10%"></video></td>
+<td><video src="img/ambiental-G.mp4" controls height="10%"></video></td>
+</tr>
+</table>
 
 ---
 
-![bg](img/10-limaq.webp)
+<!-- _class: invert -->
+
+# - 10 -
+
+# A pomba, o ventilador e o pote de água
+
+# 🕊 :skull:
+
+---
+
+![bg](img/pomba-A.webp)
 
 ---
 
@@ -331,4 +320,4 @@ mais novos
 
 Valeu! :v:
 
-![bg right](img/11-sensual.webp)
+![bg right](img/fim-A.webp)
